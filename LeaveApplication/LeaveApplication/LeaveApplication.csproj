@@ -17,4 +17,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\LeaveApplication.Dal\LeaveApplication.Dal.csproj" />
+  </ItemGroup>
+
 </Project>

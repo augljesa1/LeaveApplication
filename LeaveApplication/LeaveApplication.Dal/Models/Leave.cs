@@ -3,12 +3,10 @@ using System.Collections.Generic;
 
 namespace LeaveApplication.Dal.Models
 {
-    public class Leave
+    public class Leave : BaseEntity
     {
-        public int LeaveId { get; set; }
         public string LeaveType { get; set; }
         public string Description { get; set; }
-
-        public virtual ICollection<UserLeave> UserLeave { get; set; }
+        public ICollection<UserLeave> UserLeaves { get; set; }
     }
 }

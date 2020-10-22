@@ -6,4 +6,13 @@ C:\Users\FUJITSU\source\repos\LeaveApplication\LeaveApplication.Dal\bin\Debug\ne
 C:\Users\FUJITSU\source\repos\LeaveApplication\LeaveApplication.Dal\obj\Debug\netstandard2.0\LeaveApplication.Dal.csproj.CoreCompileInputs.cache
 C:\Users\FUJITSU\source\repos\LeaveApplication\LeaveApplication.Dal\obj\Debug\netstandard2.0\LeaveApplication.Dal.dll
 C:\Users\FUJITSU\source\repos\LeaveApplication\LeaveApplication.Dal\obj\Debug\netstandard2.0\LeaveApplication.Dal.pdb
+C:\Users\FUJITSU\Desktop\UTM\GitHub\Knjige\Folder\repos\LeaveApplication\LeaveApplication.Dal\bin\Debug\netstandard2.0\LeaveApplication.Dal.deps.json
+C:\Users\FUJITSU\Desktop\UTM\GitHub\Knjige\Folder\repos\LeaveApplication\LeaveApplication.Dal\bin\Debug\netstandard2.0\LeaveApplication.Dal.dll
+C:\Users\FUJITSU\Desktop\UTM\GitHub\Knjige\Folder\repos\LeaveApplication\LeaveApplication.Dal\bin\Debug\netstandard2.0\LeaveApplication.Dal.pdb
+C:\Users\FUJITSU\Desktop\UTM\GitHub\Knjige\Folder\repos\LeaveApplication\LeaveApplication.Dal\obj\Debug\netstandard2.0\LeaveApplication.Dal.csprojAssemblyReference.cache
+C:\Users\FUJITSU\Desktop\UTM\GitHub\Knjige\Folder\repos\LeaveApplication\LeaveApplication.Dal\obj\Debug\netstandard2.0\LeaveApplication.Dal.AssemblyInfoInputs.cache
+C:\Users\FUJITSU\Desktop\UTM\GitHub\Knjige\Folder\repos\LeaveApplication\LeaveApplication.Dal\obj\Debug\netstandard2.0\LeaveApplication.Dal.AssemblyInfo.cs
+C:\Users\FUJITSU\Desktop\UTM\GitHub\Knjige\Folder\repos\LeaveApplication\LeaveApplication.Dal\obj\Debug\netstandard2.0\LeaveApplication.Dal.dll
+C:\Users\FUJITSU\Desktop\UTM\GitHub\Knjige\Folder\repos\LeaveApplication\LeaveApplication.Dal\obj\Debug\netstandard2.0\LeaveApplication.Dal.pdb
+C:\Users\FUJITSU\Desktop\UTM\GitHub\Knjige\Folder\repos\LeaveApplication\LeaveApplication.Dal\obj\Debug\netstandard2.0\LeaveApplication.Dal.csproj.CoreCompileInputs.cache
 C:\Users\FUJITSU\source\repos\LeaveApplication\LeaveApplication.Dal\obj\Debug\netstandard2.0\LeaveApplication.Dal.csprojAssemblyReference.cache
